@@ -24,7 +24,7 @@ echo [+] %DATE% - %TIME%:    Go to the script folder
 set directory_path=<Path to this project directory>
 ```
 
-Then in the **[secret.txt](secret.txt)** file replace those by yours:
+Add a file named **secret.txt** in the project directory where are the **[script.py](script.py)** file and replace the following with yours:
 ```txt
 <USERNAME>
 <PASSWORD>
