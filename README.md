@@ -53,4 +53,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * This project is inspired by a video from [Kalle Halden](https://github.com/KalleHallden) and also from the readaptation for Windows of [Tim Eichinger](https://github.com/eichingertim). Check out his repository: (https://github.com/eichingertim/ProjectCreationAutomation).
 * Improvement are still planned
-# test1 
